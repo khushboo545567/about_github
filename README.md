@@ -1,6 +1,7 @@
 # GitHub Collaboration Practice
 
 This repository is for practicing Git and GitHub fundamentals and understanding how team collaboration works in real-world projects.
+
 ---
 
 ## Purpose
